@@ -2,7 +2,7 @@
 layout: post
 title:  JSON parsing and good vs bad programming
 date:   2025-10-25
-categories: programming intelligence
+tags: [programming, intelligence]
 ---
 
 ## Background
